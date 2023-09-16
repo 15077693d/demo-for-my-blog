@@ -1,0 +1,2 @@
+sync prisma to db and also update type
+- npx prisma db push
