@@ -6,7 +6,7 @@ type IProps = {
   classNameForImage?: string;
 };
 
-export default function DaisyUICarousel({ carouselId }: IProps) {
+export default function GoodDaisyUICarousel({ carouselId }: IProps) {
   const handleClickBtn = (
     event: React.MouseEvent<HTMLAnchorElement, MouseEvent>,
   ) => {
