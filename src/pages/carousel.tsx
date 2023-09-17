@@ -2,7 +2,7 @@ import React from "react";
 import BadDaisyUICarousel from "~/components/carousel/BadDaisyUICarousel";
 import GoodDaisyUICarousel from "~/components/carousel/GoodDaisyUICarousel";
 
-export default function rating() {
+export default function Carousel() {
   return (
     <div className="flex flex-col">
       <div className="min-h-[30vh]" />

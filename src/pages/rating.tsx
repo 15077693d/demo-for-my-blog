@@ -2,7 +2,7 @@ import React from "react";
 import SimpleRating from "~/components/rating/SimpleRating";
 import SimpleBadRating from "~/components/rating/SimpleRatingBad";
 
-export default function rating() {
+export default function Rating() {
   return (
     <div className="flex flex-col">
       <h1>Bad</h1>
