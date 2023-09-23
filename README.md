@@ -2,6 +2,6 @@ This repository is specifically created for my blog, as it serves as a platform 
 
 e.g.: https://oscaryiu.com/devtips-daisyui-rating-carousell/
 
-DevTips – Daisyui (Rating, Carousel)
-Rating demo: https://demo-for-my-blog.vercel.app/rating
-Carousel demo: https://demo-for-my-blog.vercel.app/carousel
+DevTips – Daisyui (Rating, Carousel)</br>
+Rating demo: https://demo-for-my-blog.vercel.app/rating</br>
+Carousel demo: https://demo-for-my-blog.vercel.app/carousel</br>
